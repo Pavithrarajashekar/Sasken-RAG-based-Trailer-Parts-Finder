@@ -1,4 +1,4 @@
-# Sasken-RAG-based-Trailer-Parts-Finder
+# Sasken-RAG-based-Smart-Trailer-Parts-Finder
 **🚚 Smart Trailer Parts Finder:** (RAG-based Search & Chatbot)(RAG + Streamlit + Web Scraping)
 Smart Trailer Parts Finder is a complete Retrieval-Augmented Generation (RAG) system for finding and querying trailer parts from multiple online sources.
 It integrates web scraping, data processing, semantic search, and an LLM-powered chatbot into one streamlined pipeline, accessible through a Streamlit interface.
